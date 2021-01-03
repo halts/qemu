@@ -64,3 +64,6 @@
 [submodule "roms/vbootrom"]
 	path = roms/vbootrom
 	url = https://gitlab.com/qemu-project/vbootrom.git
+[submodule "libucontext"]
+	path = subprojects/libucontext
+	url = https://github.com/utmapp/libucontext.git
